@@ -32,9 +32,7 @@
     "semver": "^4.2.0",
     "uglify-js": "^2.4.23"
   },
-  "peerDependencies": {
-    "react": ">=0.13.x"
-  },
+  "peerDependencies": {},
   "author": "James Hollingworth",
   "license": "MIT",
   "licenses": [
