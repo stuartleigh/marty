@@ -33,7 +33,7 @@
     "uglify-js": "^2.4.23"
   },
   "peerDependencies": {
-    "react": "0.13.x"
+    "react": ">=0.13.x"
   },
   "author": "James Hollingworth",
   "license": "MIT",
